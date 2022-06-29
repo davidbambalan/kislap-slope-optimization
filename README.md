@@ -1,2 +1,2 @@
 # kislap-slope-optimization
-`prelim.ipnyb` -- quick prelim study on slope optimization feasibility.
+`prelim.ipnyb` -- quick unscientific prelim study on slope optimization feasibility.
